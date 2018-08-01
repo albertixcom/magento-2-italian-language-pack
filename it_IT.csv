@@ -13045,3 +13045,4 @@ Ulteriori informazioni su come installare l'agent è disponibile <a target=""_bl
 "Account Dashboard","Dashboard Account",theme,frontend/Magento/luma
 "Address Book","Rubrica",theme,frontend/Magento/luma
 "Account Information","Informazioni Account",theme,frontend/Magento/luma
+"Write Us","Contatto",module,Magento_Contact
